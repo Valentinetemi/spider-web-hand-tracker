@@ -1,6 +1,6 @@
 # Spider-Web Hand Tracker 🕸️🖐️
 
-A Python project that tracks your hand in real-time using **MediaPipe** and creates a **colorful spider-web effect** by connecting hand landmarks on your webcam feed.
+A Python project that tracks your hand in real-time using **MediaPipe** and creates a **colorful spider-web effect** by connecting hand landmarks on your webcam feed in realtime.
 
 This project was built as part of my **#100DaysOfBuildingAI** challenge.
 
@@ -21,3 +21,4 @@ This project was built as part of my **#100DaysOfBuildingAI** challenge.
 
 ```bash
 git clone https://github.com/Valentinetemi/spider-web-hand-tracker.git
+
